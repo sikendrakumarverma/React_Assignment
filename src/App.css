@@ -1,0 +1,61 @@
+ .parent{
+  margin-top: 150px;
+ }
+
+.App {
+  margin: auto;
+  /* width: 700px;
+  height: 200px;
+  border: solid ;
+  border-color: red; */
+  text-align: center;
+}
+
+.App-logo {
+  margin: auto;
+  height: 30vmin;
+  pointer-events: none;
+}
+
+.textArea{
+  margin: auto;
+  border: solid;
+  border-color: darkolivegreen;
+  width: 800px;
+}
+
+.text{
+  margin: auto;
+  height: 50px;
+ width: 700px;
+ margin-left: 50px;
+}
+
+.btn{
+  width: 500px;
+  align-items: center;
+ margin: auto;
+  
+
+}
+.btn1{
+  height: 50px;
+ width: 300px;
+  border: solid;
+  border-color: springgreen;
+}
+.btn2{
+  height: 50px;
+  width: 200px;
+  border: solid;
+  border-color: blueviolet;
+}
+
+.div{
+  margin: auto;
+  width: 400px;
+  border: solid;
+  border-color: orangered;
+  text-align: center;
+
+}
